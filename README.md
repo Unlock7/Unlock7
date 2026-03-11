@@ -20,10 +20,8 @@ I am motivated to learn new technologies because I enjoy building things, solvin
 ---
 
 ## 🚀 Technologies I'm Learning
-- 📜 JavaScript (ES6+)
-- 🐍 Python
+- 📜 JavaScript 
 - 🏗️ Git & GitHub
-- ☁️ Cloud Computing
 
 ---
 
