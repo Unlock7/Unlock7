@@ -54,6 +54,4 @@ I thrive on building innovative solutions, solving complex problems, and continu
   <a href="*****"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+
