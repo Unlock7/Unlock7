@@ -38,5 +38,5 @@ I am motivated to learn new technologies because I enjoy building things, solvin
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: [ያንተን ኢሜይል እዚህ አስገባ]
-- 🔗 LinkedIn: [የሊንክድኢን ሊንክህን እዚህ አስገባ]
+- 📧 Email: [*****]
+- 🔗 LinkedIn: [****]
