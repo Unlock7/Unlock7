@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 Hi! I'm **Dagim**, a dedicated **Full-Stack Web Development student** at **HackYourFuture**.  
-I love turning ideas into real, functional applications — from backend logic to frontend experiences.
+I’m developing my skills across the full stack — from backend logic to frontend interfaces.
 
 My work is driven by:
 
