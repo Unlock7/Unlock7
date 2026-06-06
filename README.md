@@ -78,7 +78,8 @@ timeline
       JavaScript Deep Dive : Ongoing
     section Professional Development
       Clean Code Principles : Ongoing
-      Debugging & Problem Solving :
+      Debugging & Problem Solving : Ongoing
+
 
       📫 Connect with Me
 <p align="left">
