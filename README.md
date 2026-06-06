@@ -69,4 +69,3 @@ My work is driven by:
 <a href="dagimvanhaileselassie@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF5252" /></a>
 <a href="YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00A0DC" /></a>
 </p>
-```
