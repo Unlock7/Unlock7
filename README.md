@@ -63,25 +63,8 @@ My work is driven by:
   <img src="https://img.shields.io/badge/Current_Focus-Backend_Engineering-00E5FF?style=for-the-badge&color=00E5FF" />
 </p>
 
-```mermaid
-timeline
-    title Dagim's Learning Timeline (Dark Mode)
-    section Backend Foundations
-      Java Basics : Started → Growing
-      Spring Boot Fundamentals : Growing → Building APIs
-    section Tooling & Workflow
-      Docker & Containers : Learning → Practicing
-      Postman API Testing : Practicing → Confident
-      IntelliJ IDEA Mastery : Learning → Improving
-    section Full‑Stack Skills
-      Express.js Backend : Completed → Improving
-      JavaScript Deep Dive : Ongoing
-    section Professional Development
-      Clean Code Principles : Ongoing
-      Debugging & Problem Solving : Ongoing
-
-
       📫 Connect with Me
+
 <p align="left">
 <a href="dagimvanhaileselassie@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF5252" /></a>
 <a href="YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00A0DC" /></a>
