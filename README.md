@@ -63,7 +63,7 @@ My work is driven by:
   <img src="https://img.shields.io/badge/Current_Focus-Backend_Engineering-00E5FF?style=for-the-badge&color=00E5FF" />
 </p>
 
-      📫 Connect with Me
+## 📫 Connect with Me
 
 <p align="left">
 <a href="dagimvanhaileselassie@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF5252" /></a>
