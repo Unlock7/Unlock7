@@ -58,14 +58,13 @@ Inventory and business-management application developed independently.
 - Implemented barcode scanning, stock transfers and product-expiry tracking
 - Investigated application errors and used database queries to troubleshoot problems
 - Implemented authentication and role-based access
-- Contributed over 500 commits and opened over 200 pull requests
+- Used AI-assisted development tools to speed up research, debugging, documentation and repetitive implementation while reviewing and testing the results
 
 **Technologies:** JavaScript, Node.js, Express.js and PostgreSQL
 
 **Website:** [usetiqure.com](https://usetiqure.com)
 
 The source code is private and available upon request.
-
 ### Flint
 
 Job search application developed as part of a HackYourFuture team project.
