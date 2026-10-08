@@ -52,7 +52,13 @@ My previous work has helped me develop a careful, reliable and practical approac
 
 ### Tiqure
 
-Inventory and business-management application for products, stock transfers, sales and deliveries.
+Inventory and business-management application developed independently.
+
+- Built features for inventory, sales, employees and deliveries
+- Implemented barcode scanning, stock transfers and product-expiry tracking
+- Investigated application errors and used database queries to troubleshoot problems
+- Implemented authentication and role-based access
+- Contributed over 500 commits and opened over 200 pull requests
 
 **Technologies:** JavaScript, Node.js, Express.js and PostgreSQL
 
