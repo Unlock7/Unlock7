@@ -45,8 +45,11 @@ My previous work has helped me develop a careful, reliable and practical approac
 - Building REST APIs and backend applications
 - Developing inventory and business-management systems
 - Improving my Java, Spring Boot and PostgreSQL skills
+- Learning Python for backend development and automation
+- Developing frontend skills with TypeScript and React
+- Improving my HTML and CSS skills
 - Learning IT support and application troubleshooting
-- Collaborating on team projects using GitHub and Jira
+- Collaborating on projects using GitHub and Jira
 
 ## Projects
 
