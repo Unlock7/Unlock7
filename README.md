@@ -81,7 +81,15 @@ Job search application developed as part of a HackYourFuture team project.
 ## GitHub Activity
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Unlock7&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unlock7&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Unlock7&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 ## Connect With Me
