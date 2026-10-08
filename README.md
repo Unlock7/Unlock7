@@ -84,7 +84,7 @@ Job search application developed as part of a HackYourFuture team project.
 - Application troubleshooting and technical support
 - Secure coding and cybersecurity
 - Continuous learning
-- Boxing
+
 
 ## GitHub Activity
 
