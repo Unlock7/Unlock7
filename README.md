@@ -12,8 +12,13 @@
 
 ## 🚀 About Me
 
-Hi! I'm **Dagim**, a dedicated **Full-Stack Web Development student** at **HackYourFuture**.  
-I’m developing my skills across the full stack — from backend logic to frontend interfaces.
+# Hi, I'm Dagim Haileselassie
+
+## Junior Backend Developer | IT Support Trainee
+
+I am a junior backend developer with a background in logistics, installation and customer service. I am building my skills in backend development, IT support and application troubleshooting.
+
+I enjoy working with APIs, databases and software problems. I am currently learning Java, Spring Boot, JavaScript, Node.js, Express.js, SQL and PostgreSQL.
 
 My work is driven by:
 
@@ -47,7 +52,14 @@ My work is driven by:
 - 🌐 Web Architecture: Designing scalable, maintainable systems
 - 🔐 Cyber Security: Understanding vulnerabilities & secure coding
 - 🥊 Boxing: Discipline, focus, and mental strength
+- 
+## What I am working on
 
+- Building REST APIs and backend applications
+- Developing inventory and business-management systems
+- Improving my Java, Spring Boot and PostgreSQL skills
+- Learning IT support and application troubleshooting
+- Collaborating on team projects using GitHub and Jira
 ---
 
 ## 📊 GitHub Performance
@@ -65,6 +77,11 @@ My work is driven by:
 <p align="center">
   <img src="https://img.shields.io/badge/Current_Focus-Backend_Engineering-00E5FF?style=for-the-badge&color=00E5FF" />
 </p>
+
+## Projects
+
+- Tiqure: Inventory and Business Management Application
+- Flint: Job Search Application
 
 ## 📫 Connect with Me
 
