@@ -1,89 +1,90 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I'm+Dagim+%F0%9F%91%8B;Full-Stack+Web+Development+Student;Dark+Mode+Edition" />
+  Hi, I'm Dagim Haileselassie 👋
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning-00E676?style=flat-square&color=00E676" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-2979FF?style=flat-square&color=2979FF" />
-  <img src="https://img.shields.io/badge/Location-HYF-FF9100?style=flat-square&color=FF9100" />
+  Junior Backend Developer | IT Support Trainee
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning-00E676?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-2979FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Netherlands-FF9100?style=flat-square" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-# Hi, I'm Dagim Haileselassie
+I am a junior backend developer with a background in logistics, technical installation and customer service. I am developing my skills in backend development, IT support and application troubleshooting.
 
-## Junior Backend Developer | IT Support Trainee
+I enjoy building REST APIs, working with databases and investigating application problems. I am currently learning Java, Spring Boot, JavaScript, Node.js, Express.js, SQL and PostgreSQL.
 
-I am a junior backend developer with a background in logistics, installation and customer service. I am building my skills in backend development, IT support and application troubleshooting.
+My previous work has helped me develop a careful, reliable and practical approach to problem-solving. I also enjoy collaborating with others and learning how software systems work.
 
-I enjoy working with APIs, databases and software problems. I am currently learning Java, Spring Boot, JavaScript, Node.js, Express.js, SQL and PostgreSQL.
-
-My work is driven by:
-
-- Clean, maintainable code
-- Real-world problem solving
-- Continuous learning
-- Curiosity for how systems work
-
----
-
-## 🛠️ Tech Stack & Tools
+## Technologies and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=00E676" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=0052CC" />
 </p>
 
----
-
-## 💡 Interests & Hobbies
-
-- 🌐 Web Architecture: Designing scalable, maintainable systems
-- 🔐 Cyber Security: Understanding vulnerabilities & secure coding
-- 🥊 Boxing: Discipline, focus, and mental strength
-- 
-## What I am working on
+## What I Am Working On
 
 - Building REST APIs and backend applications
 - Developing inventory and business-management systems
 - Improving my Java, Spring Boot and PostgreSQL skills
 - Learning IT support and application troubleshooting
 - Collaborating on team projects using GitHub and Jira
----
-
-## 📊 GitHub Performance
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unlock7&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-<br>
-<img src="https://streak-stats.demolab.com?user=Unlock7&theme=vision-friendly-dark&hide_border=true" />
-</p>
-
----
-
-## 📚 Now Learning — Progress Timeline
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Current_Focus-Backend_Engineering-00E5FF?style=for-the-badge&color=00E5FF" />
-</p>
 
 ## Projects
 
-- Tiqure: Inventory and Business Management Application
-- Flint: Job Search Application
+### Tiqure
 
-## 📫 Connect with Me
+Inventory and business-management application for products, stock transfers, sales and deliveries.
 
-- LinkedIn: https://linkedin.com/in/dagim-h-selassie-7aa9ab1b4
+**Technologies:** JavaScript, Node.js, Express.js and PostgreSQL
+
+**Website:** [usetiqure.com](https://usetiqure.com)
+
+The source code is private and available upon request.
+
+### Flint
+
+Job search application developed as part of a HackYourFuture team project.
+
+**Technologies:** Java, Spring Boot and PostgreSQL
+
+**Website:** [c55b.hyf.dev/jobs](https://c55b.hyf.dev/jobs)
+
+**Repository:** [GitHub repository](https://github.com/HackYourFutureProjects/c55-final-project-group-B)
+
+## Interests
+
+- Backend development and web architecture
+- Application troubleshooting and technical support
+- Secure coding and cybersecurity
+- Continuous learning
+- Boxing
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unlock7&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</p>
+
+## Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/dagim-h-selassie-7aa9ab1b4)
 - Email: dagi.haileselassie@gmail.com
